@@ -8,6 +8,6 @@
 </head>
 <body>
     <a href="back-end/">Backend</a>
-    <a href="front-end/">Front end</a>
+    <a href="Front-end/">Front end</a>
 </body>
 </html>
