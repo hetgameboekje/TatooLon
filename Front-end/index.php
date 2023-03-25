@@ -16,8 +16,9 @@
         </h1>
     </div>
     <div class="Big-box">
-    <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
-
+        <div class="profileIMG-DIV">
+        <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
+        </div>
 
     </div>
 

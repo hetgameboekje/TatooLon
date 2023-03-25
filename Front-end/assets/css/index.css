@@ -2,23 +2,29 @@ body {
     background-color: #302E43;
 }
 
-.titletext{
+.titletext {
     text-align: center;
 }
 
-.Big-box{
+.Big-box {
     background-color: #504361;
     width: 60%;
     height: 500px;
-    padding:auto;
+    padding: auto;
     margin: auto;
-    border:#504361;
+    border: #504361;
     border-radius: 10px;
-    border-style:solid;
-    border-width:25px;
+    border-style: solid;
+    border-width: 25px;
 }
 
 .profileIMG {
     clip-path: circle(50% at 50% 50%);
     max-width: 25%;
+}
+
+.profileIMG-DIV {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
