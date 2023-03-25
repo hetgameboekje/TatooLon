@@ -1,0 +1,19 @@
+body {
+    background-color: #302E43;
+}
+
+.titletext{
+    text-align: center;
+}
+
+.Big-box{
+    background-color: #504361;
+    width: 60%;
+    height: 500px;
+    padding:auto;
+    margin: auto;
+    border:#504361;
+    border-radius: 10px;
+    border-style:solid;
+    border-width:25px;
+}
