@@ -30,8 +30,8 @@
         <div class="profileIMG-DIV">
             <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
         </div>
-        <div class="facebookButton"><img src="assets/css/img/profileimgLON.jpg" alt=""class="smallIMGbutton"> Testing</div>
-        <div class="instaButton"><img src="assets/css/img/profileimgLON.jpg" alt=""class="smallIMGbutton">Insta</div>
+        <div class="facebookButton"><img src="assets/css/img/profileimgLON.jpg" alt=""class="smallIMGbutton"> Facebook</div>
+        <div class="instaButton"><img src="assets/css/img/profileimgLON.jpg" alt=""class="smallIMGbutton">Instagram</div>
 
     </div>
 
