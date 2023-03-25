@@ -19,6 +19,8 @@
         <div class="profileIMG-DIV">
         <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
         </div>
+        <div class="facebookButton">Testing</div>
+        <div class="instaButton">Insta</div>
 
     </div>
 

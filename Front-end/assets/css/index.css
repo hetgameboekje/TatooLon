@@ -24,9 +24,24 @@ body {
 }
 
 .profileIMG-DIV {
-    top:25%;
+    top: 25%;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.facebookButton{
+    background-color:#302E43;
+    float:right;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+.instaButton{
+    background-color:#302E43;
+    float:left;
+    width: 25%;
+    height: 100px;
+    text-align: center;
 }
