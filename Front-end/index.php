@@ -2,6 +2,17 @@
 <html lang="en">
 
 <head>
+    <!-- This webpage is made for Lonneke en Thijs. -->
+    <!-- Credits to this page goes to: -->
+    <!-- Front end: -->
+    <!-- Timo bergthaler -->
+    <!-- Dylano Bosch -->
+    <!-- Back end: -->
+    <!-- Kevin Simon -->
+    <!-- Wadih Ibrahim -->
+    <!-- Lucas Jennen -->
+
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,7 +28,7 @@
     </div>
     <div class="Big-box">
         <div class="profileIMG-DIV">
-        <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
+            <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
         </div>
         <div class="facebookButton">Testing</div>
         <div class="instaButton">Insta</div>
