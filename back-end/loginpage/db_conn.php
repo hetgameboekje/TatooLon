@@ -4,7 +4,7 @@
     $unmea = "root";
     $password = "";
 
-    $db_name = "test_db";
+    $db_name = "tattoo";
 
     $conn = mysqli_connect($sname, $unmea, $password, $db_name);
 

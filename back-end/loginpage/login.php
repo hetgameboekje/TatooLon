@@ -1,16 +1,13 @@
 <?php
 session_start();
 include "db_conn.php";
-
-if(isset($_POST['uname']) && isset($_GET['wachtwoord'])) {
-
-    function validate($data) {
-        $data = trim($data);
-        $data = stripslashes($data);
-        $data = htmlspecialchars($data);
-        return data;
-    }
+function validate($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
 }
+
 
 $uname = validate($_POST['uname']);
 $pass = validate($_POST['password']);
@@ -24,16 +21,15 @@ else if(empty($pass)) {
     exit();
 }
 
-$sql = "SELECT * FROM users WHERE user_name='$uname' AND password='$pass'";
+$sql = "SELECT * FROM account WHERE naam='$uname' AND ww='$pass'";
 
 $result = mysqli_query($conn, $sql);
 
 if(mysqli_num_rows($result) === 1) {
     $row = mysqli_fetch_assoc($result);
-    if($row['user_name'] === $uname && $row['password'] === $pass) {
+    if($row['naam'] === $uname && $row['ww'] === $pass) {
         echo "logged in!";
-        $_SESSION['user_name'] = $row['user_name'];
-        $_SESSION['name'] = $row['name'];
+        $_SESSION['user_name'] = $row['naam'];
         $_SESSION['id'] = $row['id'];
         header("Location: home.php");
         exit();
