@@ -5,5 +5,18 @@
         <link rel= "stylesheet"  type = "text/css" href="styles.css">
     </head>
 <body>
-    <form action="login.php"></form>
+    <form action="login.php" method="post">
+        <h2>LOGIN</h2>
+        <?php if(isset($_GET['error'])) { ?>
+            <p class="error"> <?php echo $_GET['error']; ?></p>
+
+        <?php } ?>
+        <label> user name</label>
+        <input type="text" name="uname" placeholder="User name"><br>
+        <label>Password</label>
+        <input type="password" name="password" placeholder="password"><br>
+
+        <button type="submit">login!</button>
+    </form>
+    </body>
 </html>
