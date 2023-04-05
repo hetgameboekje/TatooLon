@@ -1,0 +1,22 @@
+body {
+    background-color: purple;
+}
+
+#logincontainer {
+    background-color: blueviolet;
+    position: relative;
+    height: 550px;
+    width: 380px;
+    border-radius: 80px;
+    left: 575px;
+    top: 100px;
+}
+
+#logincontainer:hover {
+    background-color: blue;
+}
+
+#usernameInputLogintextUsername {
+    position: relative;
+    left: 75px;
+}
