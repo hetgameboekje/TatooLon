@@ -30,17 +30,27 @@
         <div class="profileIMG-DIV">
             <img src="assets/css/img/profileimgLON.jpg" class="profileIMG" alt="">
         </div>
-        <div class="facebookButton"><img src="assets/css/img/facebook.png" alt=""class="smallIMGbutton"> Facebook</div>
-        <div class="instaButton"><img src="assets/css/img/instagram.png" alt=""class="smallIMGbutton">Instagram</div>
+        <div class="facebookButton"><img src="assets/css/img/facebook.png" alt="" class="smallIMGbutton"> Facebook</div>
+        <div class="instaButton"><img src="assets/css/img/instagram.png" alt="" class="smallIMGbutton">Instagram</div>
 
     </div>
 
 
+    <hr class="navbarhr">
+    <ul>
+        <li><a href="login.html">Over ons</a></li>
+        <li><a href="login.html">Posts</a></li>
+        <li><a href="login.html">Contact</a></li>
+    </ul>
+    
+    <div class="Big-box" style="margin-top:102px;">
+    <div class="Small-box"></div>
+    <div class="Small-box"></div>
+
+    <div class="Small-box"></div>
 
 
-    <hr>
-    <a href="login.html">login</a>
-
+</div>
 
 </body>
 
