@@ -44,10 +44,91 @@
     </ul>
     
     <div class="Big-box" style="margin-top:102px;">
-    <div class="Small-box"></div>
-    <div class="Small-box"></div>
+    <div class="Small-box">
+        <ul>
+            <li>
+                <h1>Openingstijden</h1>
+            </li>
+            <li>
+                Maandag 08:00 - 16:00
+            </li>
+            <li>
+                Dinsdag 08:15 - 16:15
+            </li>
+            <li>
+                Woensdag GESLOTEN
+            </li>
+            <li>
+                Donderdag GESLOTEN
+            </li>
+            <li>
+                Vrijdag 09:00 - 13:00
+            </li>
+            <li>
+                Zaterdag 16:00 - 21:00
+            </li>
+            <li>
+                Zondag 16:00 - 22:00
+            </li>
+        </ul>
+    </div>
+    <div class="Small-box">
+    <ul>
+            <li>
+                <h1>Openingstijden</h1>
+            </li>
+            <li>
+                Maandag 08:00 - 16:00
+            </li>
+            <li>
+                Dinsdag 08:15 - 16:15
+            </li>
+            <li>
+                Woensdag GESLOTEN
+            </li>
+            <li>
+                Donderdag GESLOTEN
+            </li>
+            <li>
+                Vrijdag 09:00 - 13:00
+            </li>
+            <li>
+                Zaterdag 16:00 - 21:00
+            </li>
+            <li>
+                Zondag 16:00 - 22:00
+            </li>
+        </ul>
+        
+    </div>
 
-    <div class="Small-box"></div>
+    <div class="Small-box">        <ul>
+            <li>
+                <h1>Openingstijden</h1>
+            </li>
+            <li>
+                Maandag 08:00 - 16:00
+            </li>
+            <li>
+                Dinsdag 08:15 - 16:15
+            </li>
+            <li>
+                Woensdag GESLOTEN
+            </li>
+            <li>
+                Donderdag GESLOTEN
+            </li>
+            <li>
+                Vrijdag 09:00 - 13:00
+            </li>
+            <li>
+                Zaterdag 16:00 - 21:00
+            </li>
+            <li>
+                Zondag 16:00 - 22:00
+            </li>
+        </ul></div>
+    
 
 
 </div>

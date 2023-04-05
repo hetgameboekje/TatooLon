@@ -30,7 +30,9 @@ body {
     border-width: 25px;
     float:left;
     position: inherit;
+    
 }
+
 
 .profileIMG {
     clip-path: circle(50% at 50% 50%);
@@ -108,4 +110,17 @@ a:link, a:visited {
     display: inline-block;
     
   }
-  
+  .Small-box li {
+    position:relative;
+    list-style-type:none;
+    text-align: left;
+    width: 100%;
+    margin:10px;
+    float:none;
+    right:45%;
+    top:-40px;
+  }
+  .Small-box ul{
+    position: relative;
+    margin:5px;
+  }
